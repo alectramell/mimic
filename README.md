@@ -7,6 +7,7 @@
 Temrinal Commands..
 
    $ cd ~/Desktop
+   <br />
    $ git clone http://github.com/alectramell/mimic
 
 GitHub url..
