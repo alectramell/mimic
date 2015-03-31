@@ -2,18 +2,18 @@
 # 2015 | Apollon Data Metrics Agency
 # Job Archives, DMA Bounties
 
-..all completed jobs are added to the "jobs" folder.
+<b>..all completed jobs are added to the "jobs" folder.</b>
 
-Temrinal Commands..
+<b>Temrinal Commands..</b>
 
-   $ cd ~/Desktop
+   <font face="courier">$ cd ~/Desktop</font>
    <br />
-   $ git clone http://github.com/alectramell/mimic
+   <font face="courier">$ git clone http://github.com/alectramell/mimic</font>
 
-GitHub url..
+<b>GitHub url..</b>
 
-   https://github.com/alectramell/mimic.git
+   <font face="courier">https://github.com/alectramell/mimic.git</font>
 
-ADM url..
+<b>ADM url..</b>
 
-   http://pegasus.zohosites.com
+   <font face="courier">http://pegasus.zohosites.com</font>
