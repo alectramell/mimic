@@ -1,0 +1,15 @@
+#!/bin/bash
+
+clear
+
+BASENAME=$(hostname)
+
+DIRSNAME=$(dirs)
+
+clear
+
+echo "ghost@$BASENAME:$DIRSNAME$"
+
+read
+
+clear

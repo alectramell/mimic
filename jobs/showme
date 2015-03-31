@@ -1,0 +1,17 @@
+#!/bin/bash
+
+clear
+
+USERNAME=$(whoami)
+
+BASENAME=$(hostname)
+
+DIRSNAME=$(dirs)
+
+clear
+
+echo "$USERNAME@$BASENAME:$DIRSNAME$"
+
+read
+
+clear
