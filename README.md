@@ -4,7 +4,7 @@
 
 <b>..all completed jobs are added to the "jobs" folder.</b>
 
-<b>Temrinal Commands..</b>
+<b>Terminal Commands..</b>
 
    <font face="courier">$ cd ~/Desktop</font>
    <br />
