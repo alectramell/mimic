@@ -2,7 +2,7 @@
 # 2015 | Apollon Data Metrics Agency
 # Job Archives, DMA Bounties
 
-<b>..all jobs, bounties, and projects are added to the "box" folder.</b>
+<b>..all items, bounties, and projects are added to the "box" folder.</b>
 
 <b>Terminal Commands..</b>
 
