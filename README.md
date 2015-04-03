@@ -2,7 +2,7 @@
 # 2015 | Apollon Data Metrics Agency
 # Job Archives, DMA Bounties
 
-<b>..all completed jobs are added to the "jobs" folder.</b>
+<b>..all jobs, bounties, and projects are added to the "box" folder.</b>
 
 <b>Terminal Commands..</b>
 
@@ -14,6 +14,10 @@
 
    <font face="courier">https://github.com/alectramell/mimic.git</font>
 
-<b>ADM url..</b>
+<b>ADM links..</b>
 
    <font face="courier">http://pegasus.zohosites.com</font>
+   <br />
+   <font face="courier">https://facebook.com/apollondma</font>
+   <br />
+   <font face="courier">https://twitter.com/apollondma</font>
