@@ -1,18 +1,18 @@
 # MIMIC
-# 2015 | Apollon Data Metrics Agency
-# Job Archives, DMA Bounties
+# Apollon Data Metrics Agency
+# Linux Debian Source Archives
 
-<b>..all items, bounties, and projects are added to the "box" folder.</b>
+<b>..all available debian packages are located in the "box" folder..</b>
 
 <b>Terminal Commands..</b>
 
    <font face="courier">$ cd ~/Desktop</font>
    <br />
-   <font face="courier">$ git clone http://github.com/alectramell/mimic</font>
+   <font face="courier">$ git clone http://github.com/alectramell/mimic.git</font>
 
 <b>GitHub url..</b>
 
-   <font face="courier">https://github.com/alectramell/mimic.git</font>
+   <font face="courier">https://github.com/alectramell/mimic</font>
 
 <b>ADM links..</b>
 
