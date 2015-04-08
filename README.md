@@ -1,6 +1,6 @@
-# MIMIC v1.0
-# (c) Apollon Data Metrics Agency
-# Linux Debian Source Archives
+# (c) MIMIC v1.0
+# Apollon Data Metrics Agency
+# Debian Source Archives
 
 <b>..all available debian files are located in the "mimic/box" directory..</b>
 
