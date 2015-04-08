@@ -1,5 +1,5 @@
 # MIMIC v1.0
-# Apollon Data Metrics Agency
+# (c) Apollon Data Metrics Agency
 # Linux Debian Source Archives
 
 <b>..all available debian files are located in the "mimic/box" directory..</b>
@@ -16,8 +16,8 @@
 
 <b>ADM links..</b>
 
-   <font face="courier">http://pegasus.zohosites.com</font>
+   <a href="http://pegasus.zohosites.com" target="_new"><font face="courier">http://pegasus.zohosites.com</font></a>
    <br />
-   <font face="courier">https://facebook.com/apollondma</font>
+   <a href="https://facebook.com/apollondma" target="_new"><font face="courier">https://facebook.com/apollondma</font></a>
    <br />
-   <font face="courier">https://twitter.com/apollondma</font>
+   <a href="https://twitter.com/apollondma" target="_new"><font face="courier">https://twitter.com/apollondma</font></a>
