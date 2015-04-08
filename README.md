@@ -1,10 +1,10 @@
-# MIMIC
+# MIMIC v1.0
 # Apollon Data Metrics Agency
 # Linux Debian Source Archives
 
-<b>..all available debian packages are located in the "box" folder..</b>
+<b>..all available debian files are located in the "mimic/box" directory..</b>
 
-<b>Terminal Commands..</b>
+<b>Downloading MIMIC via Ubuntu Terminal (CTRL+ALT+T)..</b>
 
    <font face="courier">$ cd ~/Desktop</font>
    <br />
