@@ -1,0 +1,9 @@
+#!/bin/bash
+
+clear
+
+cp /usr/share/shadow/shadow.desktop ~/Desktop/shadow.desktop
+
+chmod 755 ~/Desktop/shadow.desktop
+
+clear

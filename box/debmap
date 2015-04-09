@@ -1,0 +1,19 @@
+
+MAP >>
+
+/APPFOLDER
+   /DEBIAN
+     control
+   /usr
+     /bin
+       script
+     /share
+       /APPFOLDER
+         file1
+         file2
+         file3..
+
+BUILD:
+
+  $ cd <1 directory outside APPFOLDER>
+  $ dpkg-deb --build APPFOLDER

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Shadow
+Comment=Debian Development Utility
+Type=Application
+Exec=/usr/share/shadow/shadow.sh
+Icon=/usr/share/shadow/shadow64x64.png
+Terminal=true
