@@ -1,9 +1,0 @@
-Package: shadow
-Priority: optional
-Section: devel
-Installed-Size: 45
-Architecture: i386
-Maintainer: Alec Tramell <alectramell@gmail.com>
-Version: 1.3-16
-Depends: libc6 (>= 2.1)
-Description: Debian Package Utility
